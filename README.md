@@ -72,32 +72,6 @@ right, he will wrap to the same row in the leftmost column.
 
 <a name="br2"></a> 
 
-Every position in the grid can be populated with one of the following:
-
-●
-
-●
-
-●
-
-●
-
-●
-
-A coin
-
-A mushroom
-
-A Goomba or a Koopa Troopa
-
-The boss of the level (there must be exactly 1 per level)
-
-Nothing
-
-Additionally, every level from 1 to L-1 contains a SINGLE warp pipe somewhere on the grid.
-
-Note that the final level does not contain a warp pipe.
-
 **Mario’s Interaction with the Environment**
 
 Mario will begin at a random location in the first level, with power PL0, and starts interacting with
@@ -108,9 +82,6 @@ the next location by moving up, down, left, or right. The direction is chosen ra
 
 uniform probability (25% each). Interactions with each position occur as follows:
 
-●
-
-●
 
 If the position contains nothing, Mario moves on.
 
@@ -118,9 +89,6 @@ If the position contains a coin, Mario adds the coin to his wallet, and then the
 
 contains nothing. Mario moves on.
 
-●
-
-●
 
 If the position contains a mushroom, Mario’s power level increases by 1, or stays at PL2
 
@@ -128,13 +96,10 @@ if he’s already in PL2. Once the mushroom is consumed, the position contains n
 
 and Mario moves on.
 
+
 If the position contains a Goomba or Koopa, Mario engages per the rules of a regular
 
 enemy, below.
-
-●
-
-●
 
 If the position contains the level boss, Mario engages per the rules of a boss, below.
 
@@ -142,15 +107,10 @@ If Mario encounters the warp pipe, he will immediately jump to a random position
 
 next level without having to beat the current level boss.
 
+
 **Mario’s Interaction with a Regular Enemy**
 
 When Mario encounters a regular enemy, gameplay proceeds as follows:
-
-●
-
-●
-
-●
 
 If the enemy is a Goomba, Mario defeats the enemy with a 80% probability, the position
 
@@ -186,7 +146,7 @@ If Mario defeats 7 enemies on the same life, he earns another life.
 
 When Mario encounters a level boss, gameplay proceeds as follows:
 
-●
+
 
 Mario defeats the enemy with a 50% probability, the position becomes empty, and Mario
 
@@ -260,14 +220,6 @@ Each subsequent line of the file should specify:
 
 <a name="br4"></a> 
 
-●
-
-●
-
-●
-
-●
-
 The level number
 
 The position location of Mario (a row and column number)
@@ -276,19 +228,6 @@ The current power level of Mario before interacting with the position
 
 The action that was taken at that position
 
-○
-
-○
-
-○
-
-○
-
-○
-
-○
-
-○
 
 Mario collected a coin
 
@@ -304,11 +243,6 @@ The position is empty
 
 Mario warped
 
-●
-
-●
-
-●
 
 The number of lives Mario has after interacting with the position
 
@@ -330,22 +264,6 @@ You shall represent your world (textually) as a 3D LxNxN array of characters. Fo
 
 levels, each of the NxN grid positions are represented by the following characters:
 
-●
-
-●
-
-●
-
-●
-
-●
-
-●
-
-●
-
-●
-
 x - nothing
 
 m - a mushroom
@@ -363,12 +281,6 @@ w - a warp pipe
 H - stands for hero. Mario’s current position.
 
 **Rules of Engagement**
-
-●
-
-●
-
-●
 
 You may **NOT** use any non-primitive data structures (eg. vectors, lists, etc) other than
 
@@ -389,36 +301,4 @@ course docker container.
 
 
 <a name="br5"></a> 
-
-●
-
-Feel free to use whatever textbooks or Internet sites you want to refresh your memory
-
-with C++ IO operations, just cite them in a README file turned in with your code. All
-
-code you write, of course, must be your own. In your README please be sure to include
-
-the g++ command for compiling your code.
-
-**Due Date**
-
-This assignment is due on the day and time specified on Canvas. Submit all your commented
-
-code as a zip file to canvas. The name of the zip file should be LastName\_FirstInitial\_A2.zip
-
-**Grading**
-
-Grades will be based on correctness, adherence to the guidelines, and code quality (including
-
-the presence of meaningful comments). An elegant, OO solution will receive much more credit
-
-than procedural spaghetti code. I assume you are familiar with the standard style guide for
-
-C++, which you should follow. (See the course page on Canvas for a C++ style guide and
-
-Coding Documentation Requirements.)
-
-Again, code that does not follow the specification EXACTLY will receive an automatic 25%
-
-deduction. Code that does not compile will receive an automatic 50% deduction.
 
