@@ -1,0 +1,1599 @@
+start level: 1
+mario's power level: 0
+mario moved DOWN! 
+mario collected a coin! 
+c g c m c k 
+- m k k k c 
+- g m c k - 
+H - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 100
+mario's power level: 0
+mario moved UP! 
+mario moved to a new position! 
+c g c m c k 
+- m k k k c 
+H g m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 100
+mario's power level: 0
+mario moved RIGHT! 
+mario lost a Goomba! 
+c g c m c k 
+- m k k k c 
+- H m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 99
+mario's power level: 0
+mario moved UP! 
+mario ate a mushroom! 
+c g c m c k 
+- H k k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c g c m c k 
+- - k k k c 
+- H m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c g c m c k 
+- - k k k c 
+H - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c g c m c k 
+H - k k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c g c m c k 
+- H k k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved UP! 
+mario killed a Goomba! 
+c H c m c k 
+- - k k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 1
+mario live: 98
+mario's power level: 1
+mario moved RIGHT! 
+mario collected a coin! 
+c - H m c k 
+- - k k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+c - - m c k 
+- - H k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - H m c k 
+- - - k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 1
+mario moved RIGHT! 
+mario ate a mushroom! 
+c - - H c k 
+- - - k k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 2
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+c - - - c k 
+- - - H k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+c - - H c k 
+- - - - k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 2
+mario live: 98
+mario's power level: 2
+mario moved RIGHT! 
+mario collected a coin! 
+c - - - H k 
+- - - - k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 3
+mario live: 98
+mario's power level: 2
+mario moved RIGHT! 
+mario lost a Koopa Troopa! 
+c - - - - H 
+- - - - k c 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 3
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario collected a coin! 
+c - - - - - 
+- - - - k H 
+- - m c k - 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 4
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - - - - - 
+- - - - k - 
+- - m c k H 
+- - - c g k 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 4
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c g H 
+- m c m c c 
+w - m k b m 
+
+
+mario coin: 4
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario collected a coin! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c g - 
+- m c m c H 
+w - m k b m 
+
+
+mario coin: 5
+mario live: 98
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c g H 
+- m c m c - 
+w - m k b m 
+
+
+mario coin: 5
+mario live: 98
+mario's power level: 1
+mario moved LEFT! 
+mario killed a Goomba! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c H - 
+- m c m c - 
+w - m k b m 
+
+
+mario coin: 5
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario collected a coin! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c - - 
+- m c m H - 
+w - m k b m 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c H - 
+- m c m - - 
+w - m k b m 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c - H 
+- m c m - - 
+w - m k b m 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c - - 
+- m c m - H 
+w - m k b m 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 1
+mario moved DOWN! 
+mario ate a mushroom! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c - - 
+- m c m - - 
+w - m k b H 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 2
+mario moved LEFT! 
+mario lost a boss! 
+mario killed a boss! 
+c - - - - - 
+- - - - k - 
+- - m c k - 
+- - - c - - 
+- m c m - - 
+w - m k H - 
+
+
+mario coin: 6
+mario live: 98
+finished level 0
+start level: 2
+mario's power level: 0
+mario moved LEFT! 
+mario killed a Goomba! 
+m g - g m m 
+- g k - m - 
+c - m k w m 
+- k m b - - 
+c - - m g c 
+k c c H - - 
+
+
+mario coin: 6
+mario live: 98
+mario's power level: 0
+mario moved LEFT! 
+mario collected a coin! 
+m g - g m m 
+- g k - m - 
+c - m k w m 
+- k m b - - 
+c - - m g c 
+k c H - - - 
+
+
+mario coin: 7
+mario live: 98
+mario's power level: 0
+mario moved UP! 
+mario moved to a new position! 
+m g - g m m 
+- g k - m - 
+c - m k w m 
+- k m b - - 
+c - H m g c 
+k c - - - - 
+
+
+mario coin: 7
+mario live: 98
+mario's power level: 0
+mario moved UP! 
+mario ate a mushroom! 
+m g - g m m 
+- g k - m - 
+c - m k w m 
+- k H b - - 
+c - - m g c 
+k c - - - - 
+
+
+mario coin: 7
+mario live: 98
+mario's power level: 1
+mario moved RIGHT! 
+mario lost a boss! 
+mario lost a boss! 
+mario killed a boss! 
+m g - g m m 
+- g k - m - 
+c - m k w m 
+- k - H - - 
+c - - m g c 
+k c - - - - 
+
+
+mario coin: 7
+mario live: 96
+finished level 1
+start level: 3
+mario's power level: 1
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - H m - 
+m c - k - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - - m - 
+m c - H - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - H m - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario ate a mushroom! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - - H - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - - - H 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - - H - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - H - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - H - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - H - - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - - - 
+- - - - H - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w - c 
+g m - - H - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+c - g g c c 
+- k c k c g 
+- c b w H c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 7
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario collected a coin! 
+c - g g c c 
+- k c k H g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 8
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario collected a coin! 
+c - g g H c 
+- k c k - g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 9
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+c - g g - c 
+- k c k H g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 9
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+c - g g H c 
+- k c k - g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 9
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario collected a coin! 
+c - g g - H 
+- k c k - g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g H - 
+- k c k - g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g - H 
+- k c k - g 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario lost a Goomba! 
+c - g g - - 
+- k c k - H 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g - - 
+- k c k H - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g - - 
+- k c k - H 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - g g - H 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g H - 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g - H 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g H - 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g - H 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g H - 
+- k c k - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - g g - - 
+- k c k H - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario killed a Koopa Troopa! 
+c - g g - - 
+- k c H - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g g - - 
+- k c - H - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g g - - 
+- k c H - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario killed a Goomba! 
+c - g H - - 
+- k c - - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - g - - - 
+- k c H - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+c - g - - - 
+- k c - H - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - g - H - 
+- k c - - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - g - - - 
+- k c - H - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+c - g - H - 
+- k c - - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+c - g H - - 
+- k c - - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+c - g - - - 
+- k c H - - 
+- c b w - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario warped to new level! 
+c - g - - - 
+- k c - - - 
+- c b H - c 
+g m - - - - 
+- - - - - - 
+m c - - - k 
+
+
+mario coin: 10
+mario live: 96
+finished level 2
+start level: 4
+mario's power level: 1
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k c c H - k 
+m - k - m g 
+k c k m m g 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k c c - - k 
+m - k H m g 
+k c k m m g 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved UP! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k c c H - k 
+m - k - m g 
+k c k m m g 
+
+
+mario coin: 10
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario collected a coin! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k c H - - k 
+m - k - m g 
+k c k m m g 
+
+
+mario coin: 11
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario collected a coin! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k H - - - k 
+m - k - m g 
+k c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 1
+mario moved DOWN! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k - - - - k 
+m H k - m g 
+k c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario ate a mushroom! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+k - - - - k 
+H - k - m g 
+k c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario killed a Koopa Troopa! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+H - - - - k 
+- - k - m g 
+k c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+H - k - m g 
+k c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario killed a Koopa Troopa! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+H c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+H - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+- c m - m g 
+H - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+k m m k c k 
+- m g m c b 
+H c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+k m m k c k 
+H m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario lost a Koopa Troopa! 
+H m m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario ate a mushroom! 
+- H m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+H - m k c k 
+- m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+H m g m c b 
+- c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+H c m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 12
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario collected a coin! 
+- - m k c k 
+- m g m c b 
+- H m - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+- H - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+H - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+- - - - - k 
+H - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+- - - - - k 
+- H k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+- H - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - m - m g 
+- - H - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario ate a mushroom! 
+- - m k c k 
+- m g m c b 
+- - H - m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - - H m g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario ate a mushroom! 
+- - m k c k 
+- m g m c b 
+- - - - H g 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario killed a Goomba! 
+- - m k c k 
+- m g m c b 
+- - - - - H 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+- - m k c k 
+- m g m c b 
+- - - - H - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 13
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario collected a coin! 
+- - m k c k 
+- m g m H b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario ate a mushroom! 
+- - m k c k 
+- m g H - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved RIGHT! 
+mario moved to a new position! 
+- - m k c k 
+- m g - H b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved LEFT! 
+mario moved to a new position! 
+- - m k c k 
+- m g H - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+- m g - - b 
+- - - H - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario moved to a new position! 
+- - m k c k 
+- m g - - b 
+- - - - - - 
+- - - H - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+- - m k c k 
+- m g - - b 
+- - - H - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario moved to a new position! 
+- - m k c k 
+- m g H - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 2
+mario moved UP! 
+mario lost a Koopa Troopa! 
+- - m H c k 
+- m g - - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 14
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario collected a coin! 
+- - m - H k 
+- m g - - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario moved to a new position! 
+- - m H - k 
+- m g - - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 1
+mario moved LEFT! 
+mario ate a mushroom! 
+- - H - - k 
+- m g - - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 2
+mario moved DOWN! 
+mario lost a Goomba! 
+- - - - - k 
+- m H - - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+- - - - - k 
+- m - H - b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario moved to a new position! 
+- - - - - k 
+- m - - H b 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 96
+mario's power level: 1
+mario moved RIGHT! 
+mario lost a boss! 
+mario killed a boss! 
+- - - - - k 
+- m - - - H 
+- - - - - - 
+- - - - - k 
+- - k - m g 
+- c k m m g 
+
+
+mario coin: 15
+mario live: 95
+finished level 3
+MARIO WINS

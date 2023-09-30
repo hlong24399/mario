@@ -2,27 +2,31 @@
 #define MARIO_H
 
 #include <iostream>
-#include "Environment.h"
+#include <fstream>
+using namespace std;
 
 class Mario {
 public:
     int lives;
     int coins;
-    int powerLevel;
+    int powerLevel = 0;
     int level;
     int r;
     int c;
+    bool finished = false;
+    bool lost = false;
 
 public:
+    Mario();
     Mario(int startingLives);
 
     // // Getter methods for Mario's attributes
-    // int getLives() const;
-    // int getCoins() const;
-    // int getPowerLevel() const;
-    // int getLevel() const;
-    // int getRow() const;
-    // int getCol() const;
+    int getLives();
+    int getCoins();
+    int getPowerLevel();
+    int getLevel();
+    int getRow();
+    int getCol();
 
     // Methods to handle Mario's interactions
     void collectCoin();
