@@ -1,12 +1,7 @@
 ﻿<a name="br1"></a> 
 
-**CPSC 350: Data Structures and Algorithms**
+**Not So Super Mario Bros.**
 
-**Fall 2023**
-
-**Programming Assignment 2: Not So Super Mario Bros.**
-
-**Due: See Canvas for due date**
 
 **The Assignment**
 
@@ -287,18 +282,6 @@ You may **NOT** use any non-primitive data structures (eg. vectors, lists, etc) 
 arrays. Of course, to do the file processing you may use any of the standard C++ IO
 
 classes.
-
-For this assignment, you may work in groups of NO MORE THAN TWO. Group
-
-members will receive the same grade regardless of individual contributions, so choose
-
-wisely.
-
-Develop using VSCode and make sure your code runs correctly with g++ using the
-
-course docker container.
-
-
 
 <a name="br5"></a> 
 
